@@ -266,8 +266,6 @@ function randomColors(){
 
  });
 
-// 21/10/2023 
-// JavaScript session 4 
 
 
 
