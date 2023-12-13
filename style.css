@@ -55,7 +55,7 @@ h2{
     margin: 60px;
     display: flex;
     flex-direction: column;
-border-radius: 20px;
+    border-radius: 20px;
     background:linear-gradient(to bottom right, rgba(88, 36, 210,0.3),rgba(238, 245, 249,0.5));
 }
 .aboutme-img img {

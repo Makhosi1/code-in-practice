@@ -4,7 +4,41 @@
 header {
     display:flex;
     background-color: rgb(190, 242, 242);
-    text-align: center;
+   padding-left: 20px;
+}
 
+nav li {
+  list-style: none;
+  display: inline;
+  margin: 10px;
+}
 
+header h1 {
+  padding-left: 40px;
+}
+
+.container {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+h4{
+  font-size: larger;
+  text-align: center;
+}
+
+.books img {
+  justify-content: center;
+  width: 50%;
+  padding: 60px;
+}
+
+.books p {
+  text-align: center;
+  width: 80%;
+}
+
+footer {
+  background-color: rgb(190, 242, 242);
 }
